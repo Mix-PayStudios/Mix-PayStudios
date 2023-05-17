@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **FiveM Development Work**
 
-- 📫 How to reach me **PixelPlay#3400**
+- 📫 How to reach me **PixelPlay#3400**, **PixelPay#2236**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
