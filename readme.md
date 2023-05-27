@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm PixelPlay</h1>
-<h3 align="center">PixelPlay is a FiveM Development Studios (Scripts, Cars, Clothing) all of it we got you covered</h3>
+<h1 align="center">Hi 👋, I'm Mix & Pay</h1>
+<h3 align="center">Mix & Pay is a FiveM Development Studio (Scripts, Cars, Clothing) all of it we got you covered</h3>
 
 - 🔭 I’m currently working on **PixelPlay Studios Finest**
 
 - 👯 I’m looking to collaborate on **FiveM Development Work**
 
-- 📫 How to reach me **PixelPlay#3400**, **PixelPay#2236**
+- 📫 How to reach us **Mixawy#9600**, **PixelPay#2236**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
