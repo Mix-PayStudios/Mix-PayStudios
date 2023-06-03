@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mix & Pay</h1>
-<h3 align="center">Mix & Pay is a FiveM Development Studio (Scripts, Cars, Clothing) all of it we got you covered</h3>
+<h1 align="center">Hi 👋, We are Code 0 Crafters</h1>
+<h3 align="center">Code 0 Crafters is a  An Experienced Team of Software Developers, Majoring in "Web Development" and an Experienced Team of Certified with Real-World Experience UI/UX Designers
+</h3>
 
-- 🔭 I’m currently working on **PixelPlay Studios Finest**
+- 🔭 We are currently working on **Code 0 Crafters Team Website**
 
-- 👯 I’m looking to collaborate on **FiveM Development Work**
+- 👯 We are looking to collaborate on **Web Development work | FiveM Developement Work**
 
-- 📫 How to reach us **Mixawy#9600**, **PixelPay#2236**
+- 📫 How to reach Team Executives **Mixawy#9600**, **PixelPay#2236**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://discord.gg/tTGgXpptv5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tTGgXpptv5" height="30" width="40" /></a>
 </p>
