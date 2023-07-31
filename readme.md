@@ -6,7 +6,8 @@
 
 - 👯 We are looking to collaborate on **Web Development work | FiveM Developement Work**
 
-- 📫 How to reach Team Executives **Mixawy#9600**, **PixelPay#2236**
+- 📫 How to reach Team Executives **Mixawy**
+- Discord.gg/respawndev
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
