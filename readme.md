@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are Code 0 Crafters</h1>
-<h3 align="center">Code 0 Crafters is a  An Experienced Team of Software Developers, Majoring in "Web Development" and an Experienced Team of Certified with Real-World Experience UI/UX Designers
+<h1 align="center">Hi 👋, We are XtremeFiveM Development</h1>
+<h3 align="center">XtremeFiveM is a  An Experienced Team of Software Developers, Majoring in "FiveM Development" and an Experienced Team of Certified with Real-World Experience UI/UX Designers
 </h3>
 
 - 🔭 We are currently working on **Code 0 Crafters Team Website**
@@ -7,7 +7,7 @@
 - 👯 We are looking to collaborate on **Web Development work | FiveM Developement Work**
 
 - 📫 How to reach Team Executives **Mixawy**
-- Discord.gg/respawndev
+- https://discord.gg/xtremefivem
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
