@@ -6,7 +6,6 @@
 
 - 👯 We are looking to collaborate on **Web Development work | FiveM Developement Work**
 
-- 📫 How to reach Team Executives **pixelpay**
 - https://discord.gg/xtremefivem
 
 <h3 align="left">Connect with us:</h3>
